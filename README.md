@@ -2,13 +2,20 @@
 
 **House-sale-price-prediction-using-python**
 
-This project analyzes and predicts housing sale price based on features such as square footage, number of bedrooms, views, locations, etc. It uses the dataset of house sale prices for King County, USA, including home sales between May 2014 and May 2015.
+In this project I pretended to be a Data Analyst working at a Real Estate Investment Trust. The Trust wanted to start investing in Residential real estate. I was tasked with determining the market price of a house given a set of features. I analyzed and predicted housing prices using attributes such as square footage, number of bedrooms, number of floors, and so on. I used the dataset of house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
-It uses python codes to do data-cleaning, analyse data and create models for price prediction, evaluate and refine models. Major activities covered include:
+The dataset used to complete this task was obtained from:
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-coursesedxorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2021-01-01
 
-Numerical representation of data using correlation, R-Squared, linear and polynomial regression, etc
-Graphical representation of data using boxplot, and seaborn's regplot.
-Model refinement suing ridge regression object.
-Polynomial transform of training and test data, etc.
+I used python codes to do data cleaning, data analysis, creating models for price prediction, evaluating and refining models.
+
+Major skillsets covered include:
+   Statistical Analysis of data using correlation, R-Squared, linear and polynomial regression
+   Graphical representation of data using boxplot, and seaborn's regplot
+   Model refinement using ridge regression object
+   Polynomial transformation of training and test data
+ 
+ 
+
 
 <!-- Final project for the IBM for Data Analysis module on Data Analysis with Python -->
