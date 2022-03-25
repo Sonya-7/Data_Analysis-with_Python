@@ -16,7 +16,7 @@ Major skillsets covered include:
    Polynomial transformation of training and test data
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/92489108/159091520-8090c7c7-4af2-4965-87a7-cb9e6342e294.gif" />
+   <img src="https://user-images.githubusercontent.com/92489108/159091520-8090c7c7-4af2-4965-87a7-cb9e6342e294.gif" width=10% height=10%>
 </p>
 
 <!-- Final project for the IBM for Data Analysis module on Data Analysis with Python -->
